@@ -1,1 +1,1 @@
-web: gunicorn app:appweb: gunicorn app:FinancasWhatsApp2.2
+web: gunicorn app:appweb: gunicorn app:FinancasWhatsApp2.2web: gunicorn app:appweb: gunicorn FinancasWhatsApp:app
